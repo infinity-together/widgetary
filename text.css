@@ -1,8 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap');
-:root{
-    --standart-font: 'Inter', 'Segoe UI', 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
-}
-
 .text {
     font-family: var(--standart-font);
     padding: 3px;
