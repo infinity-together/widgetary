@@ -1,0 +1,129 @@
+.btnBigAcc {
+    color: #fff;
+    background-color: var(--colorAccent);
+    font-family: var(--fontStandart);
+    padding: 12px 17px;
+    border: none;
+    border-radius: 30px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+
+.btnBigAcc:hover {
+    background-color: var(--colorAccentHover);
+}
+
+.btnDefAcc {
+    color: #fff;
+    background-color: var(--colorAccent);
+    font-family: var(--fontStandart);
+    padding: 10px 15px;
+    border: none;
+    border-radius: 20px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+
+.btnDefAcc:hover {
+    background-color: var(--colorAccentHover);
+}
+
+.btnSmlAcc {
+    color: #fff;
+    background-color: var(--colorAccent);
+    font-family: var(--fontStandart);
+    padding: 7px 12px;
+    border: none;
+    border-radius: 20px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+
+.btnSmlAcc:hover {
+    background-color: var(--colorAccentHover);
+}
+
+.btnVsmAcc {
+    color: #fff;
+    background-color: var(--colorAccent);
+    font-family: var(--fontStandart);
+    padding: 4px 10px;
+    border: none;
+    border-radius: 20px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+
+.btnVsmAcc:hover {
+    background-color: var(--colorAccentHover);
+}
+
+
+
+.btnBigStd {
+    color: #fff;
+    background-color: var(--colorAccent);
+    font-family: var(--fontStandart);
+    font-weight: 500;
+    font-size: 16px;
+    padding: 12px 17px;
+    border: none;
+    border-radius: 12px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+
+.btnBigStd:hover {
+    background-color: var(--colorAccentHover);
+}
+
+.btnDefStd {
+    color: #fff;
+    background-color: var(--colorAccent);
+    font-family: var(--fontStandart);
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 12px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+
+.btnDefStd:hover {
+    background-color: var(--colorAccentHover);
+}
+
+.btnSmlStd {
+    color: #fff;
+    background-color: var(--colorAccent);
+    font-family: var(--fontStandart);
+    padding: 7px 12px;
+    border: none;
+    border-radius: 8px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+
+.btnSmlStd:hover {
+    background-color: var(--colorAccentHover);
+}
+
+.btnVsmStd {
+    color: #fff;
+    background-color: var(--colorAccent);
+    font-family: var(--fontStandart);
+    padding: 4px 8px;
+    border: none;
+    border-radius: 8px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+
+.btnVsmStd:hover {
+    background-color: var(--colorAccentHover);
+}
+
+button:focus {
+    outline:none;
+}

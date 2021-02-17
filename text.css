@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap');
+:root{
+    --standart-font: 'Inter', 'Segoe UI', 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.text {
+    font-family: var(--standart-font);
+    padding: 3px;
+}
+
+.text_np {
+    font-family: var(--standart-font);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--standart-font);
+    font-weight: 500;
+    padding: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.code {
+    background-color: rgb(238, 238, 238);
+    font-family: monospace;
+    border-radius: 3px;
+    width: fit-content;
+    padding: 3px;
+}
+
+.mrpd {
+    margin-bottom: 30px;
+}
+
+.mipd {
+    margin-bottom: 22px;
+}
